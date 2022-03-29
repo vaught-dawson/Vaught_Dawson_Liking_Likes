@@ -1,3 +1,3 @@
-# Liking Likes Assingment
+# Liking Likes Assignment
 
 ## Web Fundamentals
